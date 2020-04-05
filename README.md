@@ -5,6 +5,11 @@
     Operating System: macOS 10.15
     Source Code Editor: Sublime Text, Version 3.2.2, Build 3211
 
+### **ASSIGNMENT DETAILS:**
+- Look into the file ```Assignment-1-details.pdf```  
+                OR
+- Go to [![http://barbic.usc.edu/cs420-s20/assign1/index.html](http://barbic.usc.edu/cs420-s20/assign1/index.html)](http://barbic.usc.edu/cs420-s20/assign1/index.html)
+
 ### **HOW TO EXECUTE THE CODE (For macOS):**
 1. Go to folder ```hw1-starterCode```
 2. Compile using the command: ```make```.  
