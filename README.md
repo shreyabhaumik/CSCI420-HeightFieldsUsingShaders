@@ -48,8 +48,7 @@ After running the program, a heightfield generated from the input image, rendere
 ### **ADDITIONAL FEATURES(EXTRA CREDIT CONSIDERATIONS):**
 
 1. The code can generate height from the grayscale heightfield file while getting color for the vertices based on color values taken from another image of equal size. You can check this by executing:  
-```./hw1 heightmap/Heightmap.jpg heightmap/HeightmapColor.jpg``` 
-However, the code can still support the height-based coloring as per the core requirements. You can check this by executing:  
+```./hw1 heightmap/Heightmap.jpg heightmap/HeightmapColor.jpg```  However, the code can still support the height-based coloring as per the core requirements. You can check this by executing:  
 ```./hw1 heightmap/spiral.jpg```
 
 2. The code can also support color in input images. It can detect if the image is colored or grayscaled, and render accordingly. You can check this by executing:  
