@@ -1,9 +1,12 @@
-# **USC CSCI 420: Computer Graphics - taught by Dr. Jernej Barbič**  
+# **USC CSCI 420: Computer Graphics**  
+#### \- taught by Dr. Jernej Barbič  
 
 ## **Programming Assignment 1: Height Fields Using Shaders**  
 
     Operating System: macOS 10.15
     Source Code Editor: Sublime Text, Version 3.2.2, Build 3211
+    Programming Language: C++
+    API: OpenGL (Core Profile)
 
 ### **ASSIGNMENT DETAILS:**
 - Look into the file ```Assignment-1-details.pdf```  
@@ -14,8 +17,7 @@
 1. Go to folder ```hw1-starterCode```
 2. Compile using the command: ```make```.  
 Note: To delete all the object files and executables:```make clean```
-
-2. To run\:  
+3. To run\:  
     - Either type\: 
     ```
     ./<your-exe-filename> <heightfield-filename>
