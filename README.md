@@ -82,4 +82,4 @@ However, the code can still support the height-based coloring as per the core re
 ![HeightFields](sample-images/heightfields.png)  
 ![Spiral](sample-images/Spiral.png)  
 ![Wiremesh](sample-images/Wiremesh.png)  
-[![https://www.youtube.com/watch?v=GQ5UOkTdmEU](https://www.youtube.com/watch?v=GQ5UOkTdmEU)](https://www.youtube.com/watch?v=GQ5UOkTdmEU)
+[![https://youtu.be/u8cpZ2I9jXI](https://youtu.be/u8cpZ2I9jXI)](https://youtu.be/u8cpZ2I9jXI)
